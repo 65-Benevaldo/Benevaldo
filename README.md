@@ -13,10 +13,6 @@
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=antoniochaves&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=antoniochaves&layout=compact&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=antoniochaves&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
-</p>
-
 
 ### 🛠️ Tecnologias e Ferramentas
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
