@@ -9,12 +9,12 @@
 - 💡 Apaixonado por tecnologia e inovação
 - 🎯 Objetivo: contribuir para projetos e compartilhar conhecimento
 
-###   Estatísticas do GitHub
+###    Estatísticas do GitHub
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=antoniochaves&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=antoniochaves&layout=compact&theme=tokyonight&hide_border=true)
 
 
-###   Tecnologias e Ferramentas
+###    Tecnologias e Ferramentas
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
