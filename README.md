@@ -22,10 +22,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/SEULINKEDIN)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=firefox&logoColor=white&style=flat)](https://SEUPORTFOLIO.com)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=0000FF&center=true&vCenter=true&width=900&lines=Olá%2C+eu+sou+Antonio+Benevaldo+Chaves+Santana!" alt="Typing SVG" />
-</p>
-
 
 Obrigado por visitar meu perfil!
 
