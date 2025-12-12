@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=0000FF&center=true&vCenter=true&width=900&lines=Olá%2C+eu+sou+Antonio+Benevaldo+Chaves+Santana!" alt="Typing SVG" />
 </p>
 
-### Sobre mim
+ ### Sobre mim
 - 🎓 Estudante de **Ciência de Dados**
 - 🐍 Estudando **MySQL, Python**
 - 💡 Apaixonado por tecnologia e inovação
